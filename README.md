@@ -1,0 +1,2 @@
+# latestlog
+minestuck crash report
